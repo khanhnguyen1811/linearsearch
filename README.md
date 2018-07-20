@@ -1,0 +1,2 @@
+# linearsearch
+linear search algrothim
